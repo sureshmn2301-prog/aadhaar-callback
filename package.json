@@ -1,5 +1,8 @@
 {
   "name": "aadhaar-vercel",
   "version": "1.0.0",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "xml2js": "^0.6.2"
+  }
 }
